@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ScrollView android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginBottom="51dp" >
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <androidx.cardview.widget.CardView android:id="@+id/sub1" android:layout_width="match_parent" android:layout_height="@dimen/subcategory_width" android:onClick="cardClick">
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                    <ImageView android:layout_width="40dp" android:layout_height="40dp" android:layout_margin="10dp" android:src="@drawable/subicon" android:layout_centerVertical="true"/>
+                    <ImageView android:layout_width="@dimen/arrow_width" android:layout_height="@dimen/arrow_height" android:layout_margin="10dp" android:src="@drawable/ic_baseline_arrow_forward_ios_24" android:layout_centerVertical="true" android:layout_alignParentEnd="true"/>
+                    <TextView android:textSize="@dimen/subcategory_textSize" android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/subcategory1" android:layout_centerVertical="true" android:fontFamily="@font/muktaregular"/>
+                </RelativeLayout>
+            </androidx.cardview.widget.CardView>
+            <View android:background="@color/black" android:layout_width="match_parent" android:layout_height="1dp"/>
+            <androidx.cardview.widget.CardView android:id="@+id/sub2" android:layout_width="match_parent" android:layout_height="@dimen/subcategory_width" android:onClick="cardClick">
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                    <ImageView android:layout_width="40dp" android:layout_height="40dp" android:layout_margin="10dp" android:src="@drawable/subicon" android:layout_centerVertical="true"/>
+                    <ImageView android:layout_width="@dimen/arrow_width" android:layout_height="@dimen/arrow_height" android:layout_margin="10dp" android:src="@drawable/ic_baseline_arrow_forward_ios_24" android:layout_centerVertical="true" android:layout_alignParentEnd="true"/>
+                    <TextView android:textSize="@dimen/subcategory_textSize" android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/subcategory2" android:layout_centerVertical="true" android:fontFamily="@font/muktaregular"/>
+                </RelativeLayout>
+            </androidx.cardview.widget.CardView>
+            <View android:background="@color/black" android:layout_width="match_parent" android:layout_height="1dp"/>
+            <androidx.cardview.widget.CardView android:id="@+id/sub3" android:layout_width="match_parent" android:layout_height="@dimen/subcategory_width" android:onClick="cardClick">
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                    <ImageView android:layout_width="40dp" android:layout_height="40dp" android:layout_margin="10dp" android:src="@drawable/subicon" android:layout_centerVertical="true"/>
+                    <ImageView android:layout_width="@dimen/arrow_width" android:layout_height="@dimen/arrow_height" android:layout_margin="10dp" android:src="@drawable/ic_baseline_arrow_forward_ios_24" android:layout_centerVertical="true" android:layout_alignParentEnd="true"/>
+                    <TextView android:textSize="@dimen/subcategory_textSize" android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/subcategory3" android:layout_centerVertical="true" android:fontFamily="@font/muktaregular"/>
+                </RelativeLayout>
+            </androidx.cardview.widget.CardView>
+            <View android:background="@color/black" android:layout_width="match_parent" android:layout_height="1dp"/>
+            <androidx.cardview.widget.CardView android:id="@+id/sub4" android:layout_width="match_parent" android:layout_height="@dimen/subcategory_width" android:onClick="cardClick">
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                    <ImageView android:layout_width="40dp" android:layout_height="40dp" android:layout_margin="10dp" android:src="@drawable/subicon" android:layout_centerVertical="true"/>
+                    <ImageView android:layout_width="@dimen/arrow_width" android:layout_height="@dimen/arrow_height" android:layout_margin="10dp" android:src="@drawable/ic_baseline_arrow_forward_ios_24" android:layout_centerVertical="true" android:layout_alignParentEnd="true"/>
+                    <TextView android:textSize="@dimen/subcategory_textSize" android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/subcategory4" android:layout_centerVertical="true" android:fontFamily="@font/muktaregular"/>
+                </RelativeLayout>
+            </androidx.cardview.widget.CardView>
+<!--            <com.google.android.gms.ads.AdView android:id="@+id/adView2" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" app:adSize="LARGE_BANNER" app:adUnitId="ca-app-pub-9220198541621510/4579594405"/>-->
+            <View android:background="@color/black" android:layout_width="match_parent" android:layout_height="1dp"/>
+            <androidx.cardview.widget.CardView android:id="@+id/sub5" android:layout_width="match_parent" android:layout_height="@dimen/subcategory_width" android:onClick="cardClick">
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                    <ImageView android:layout_width="40dp" android:layout_height="40dp" android:layout_margin="10dp" android:src="@drawable/subicon" android:layout_centerVertical="true"/>
+                    <ImageView android:layout_width="@dimen/arrow_width" android:layout_height="@dimen/arrow_height" android:layout_margin="10dp" android:src="@drawable/ic_baseline_arrow_forward_ios_24" android:layout_centerVertical="true" android:layout_alignParentEnd="true"/>
+                    <TextView android:textSize="@dimen/subcategory_textSize" android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/subcategory5" android:layout_centerVertical="true" android:fontFamily="@font/muktaregular"/>
+                </RelativeLayout>
+            </androidx.cardview.widget.CardView>
+            <View android:background="@color/black" android:layout_width="match_parent" android:layout_height="1dp"/>
+            <androidx.cardview.widget.CardView android:id="@+id/sub6" android:layout_width="match_parent" android:layout_height="@dimen/subcategory_width" android:onClick="cardClick">
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                    <ImageView android:layout_width="40dp" android:layout_height="40dp" android:layout_margin="10dp" android:src="@drawable/subicon" android:layout_centerVertical="true"/>
+                    <ImageView android:layout_width="@dimen/arrow_width" android:layout_height="@dimen/arrow_height" android:layout_margin="10dp" android:src="@drawable/ic_baseline_arrow_forward_ios_24" android:layout_centerVertical="true" android:layout_alignParentEnd="true"/>
+                    <TextView android:textSize="@dimen/subcategory_textSize" android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/subcategory6" android:layout_centerVertical="true" android:fontFamily="@font/muktaregular"/>
+                </RelativeLayout>
+            </androidx.cardview.widget.CardView>
+            <View android:background="@color/black" android:layout_width="match_parent" android:layout_height="1dp"/>
+            <androidx.cardview.widget.CardView android:id="@+id/sub7" android:layout_width="match_parent" android:layout_height="@dimen/subcategory_width" android:onClick="cardClick">
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                    <ImageView android:layout_width="40dp" android:layout_height="40dp" android:layout_margin="10dp" android:src="@drawable/subicon" android:layout_centerVertical="true"/>
+                    <ImageView android:layout_width="@dimen/arrow_width" android:layout_height="@dimen/arrow_height" android:layout_margin="10dp" android:src="@drawable/ic_baseline_arrow_forward_ios_24" android:layout_centerVertical="true" android:layout_alignParentEnd="true"/>
+                    <TextView android:textSize="@dimen/subcategory_textSize" android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/subcategory7" android:layout_centerVertical="true" android:fontFamily="@font/muktaregular"/>
+                </RelativeLayout>
+            </androidx.cardview.widget.CardView>
+            <View android:background="@color/black" android:layout_width="match_parent" android:layout_height="1dp"/>
+            <androidx.cardview.widget.CardView android:id="@+id/sub8" android:layout_width="match_parent" android:layout_height="@dimen/subcategory_width" android:onClick="cardClick">
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                    <ImageView android:layout_width="40dp" android:layout_height="40dp" android:layout_margin="10dp" android:src="@drawable/subicon" android:layout_centerVertical="true"/>
+                    <ImageView android:layout_width="@dimen/arrow_width" android:layout_height="@dimen/arrow_height" android:layout_margin="10dp" android:src="@drawable/ic_baseline_arrow_forward_ios_24" android:layout_centerVertical="true" android:layout_alignParentEnd="true"/>
+                    <TextView android:textSize="@dimen/subcategory_textSize" android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/subcategory8" android:layout_centerVertical="true" android:fontFamily="@font/muktaregular"/>
+                </RelativeLayout>
+            </androidx.cardview.widget.CardView>
+            <View android:background="@color/black" android:layout_width="match_parent" android:layout_height="1dp"/>
+            <androidx.cardview.widget.CardView android:id="@+id/sub9" android:layout_width="match_parent" android:layout_height="@dimen/subcategory_width" android:onClick="cardClick">
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                    <ImageView android:layout_width="40dp" android:layout_height="40dp" android:layout_margin="10dp" android:src="@drawable/subicon" android:layout_centerVertical="true"/>
+                    <ImageView android:layout_width="@dimen/arrow_width" android:layout_height="@dimen/arrow_height" android:layout_margin="10dp" android:src="@drawable/ic_baseline_arrow_forward_ios_24" android:layout_centerVertical="true" android:layout_alignParentEnd="true"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:fontFamily="@font/muktaregular"
+                        android:gravity="center"
+                        android:text="@string/subcategory9"
+                        android:textColor="@color/text_color"
+                        android:textSize="@dimen/subcategory_textSize"
+                        android:textStyle="bold" />
+                </RelativeLayout>
+            </androidx.cardview.widget.CardView>
+            <View android:background="@color/black" android:layout_width="match_parent" android:layout_height="1dp"/>
+            <androidx.cardview.widget.CardView android:id="@+id/sub10" android:layout_width="match_parent" android:layout_height="@dimen/subcategory_width" android:onClick="cardClick">
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                    <ImageView android:layout_width="40dp" android:layout_height="40dp" android:layout_margin="10dp" android:src="@drawable/subicon" android:layout_centerVertical="true"/>
+                    <ImageView android:layout_width="@dimen/arrow_width" android:layout_height="@dimen/arrow_height" android:layout_margin="10dp" android:src="@drawable/ic_baseline_arrow_forward_ios_24" android:layout_centerVertical="true" android:layout_alignParentEnd="true"/>
+                    <TextView android:textSize="@dimen/subcategory_textSize" android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/subcategory10" android:layout_centerVertical="true" android:fontFamily="@font/muktaregular"/>
+                </RelativeLayout>
+            </androidx.cardview.widget.CardView>
+            <View android:background="@color/black" android:layout_width="match_parent" android:layout_height="1dp"/>
+        </LinearLayout>
+    </ScrollView>
+   <com.google.android.gms.ads.AdView
+xmlns:ads="http://schemas.android.com/apk/res-auto"
+android:id="@+id/adView"
+android:layout_width="wrap_content"
+android:layout_height="50dp"
+android:layout_centerHorizontal="true"
+android:layout_alignParentBottom="true"
+ads:adSize="BANNER"
+ads:adUnitId="@string/BANNER_id">
+</com.google.android.gms.ads.AdView>
+    </RelativeLayout>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".six">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            tools:ignore="MissingConstraints">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/card_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="#FFFFFF"
+                    app:cardCornerRadius="0dp">
+
+                    <RelativeLayout
+                        android:id="@+id/rere"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#2196F3">
+
+                        <ImageView
+                            android:id="@+id/thumbnail"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp"
+                            android:background="#22000000"
+                            android:clickable="true"
+                            android:padding="16dp"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/sheet"
+                            tools:ignore="SpeakableTextPresentCheck" />
+
+                        <TextView
+                            android:id="@+id/title"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_gravity="center_vertical"
+                            android:layout_toEndOf="@+id/thumbnail"
+                            android:layout_toRightOf="@+id/thumbnail"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:text="MS Office Excel"
+                            android:textAppearance="?android:attr/textAppearanceMedium"
+                            android:textColor="@color/white"
+                            android:textStyle="bold" />
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/card_view1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="#FFFFFF"
+                    app:cardCornerRadius="0dp">
+
+                    <RelativeLayout
+                        android:id="@+id/rere1"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#9C27B0">
+
+                        <ImageView
+                            android:id="@+id/thumbnail1"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp"
+                            android:background="#22000000"
+                            android:clickable="true"
+                            android:padding="16dp"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/presentation"
+                            tools:ignore="SpeakableTextPresentCheck" />
+
+                        <TextView
+                            android:id="@+id/title1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_gravity="center_vertical"
+                            android:layout_toEndOf="@+id/thumbnail1"
+                            android:layout_toRightOf="@+id/thumbnail1"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:text="MS Office PowerPoint"
+                            android:textAppearance="?android:attr/textAppearanceMedium"
+                            android:textColor="@color/white"
+                            android:textStyle="bold" />
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/card_view2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="#FFFFFF"
+                    app:cardCornerRadius="0dp">
+
+                    <RelativeLayout
+                        android:id="@+id/rere2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#FF9800">
+
+                        <ImageView
+                            android:id="@+id/thumbnail2"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp"
+                            android:background="#22000000"
+                            android:clickable="true"
+                            android:padding="16dp"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/word"
+                            tools:ignore="SpeakableTextPresentCheck" />
+
+                        <TextView
+                            android:id="@+id/title2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_gravity="center_vertical"
+                            android:layout_toEndOf="@+id/thumbnail2"
+                            android:layout_toRightOf="@+id/thumbnail2"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:text="MS Office Word"
+                            android:textAppearance="?android:attr/textAppearanceMedium"
+                            android:textColor="@color/white"
+                            android:textStyle="bold" />
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+            </RelativeLayout>
+
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

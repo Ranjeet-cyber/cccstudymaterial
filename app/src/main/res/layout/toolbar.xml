@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/btn_noo"
+    android:elevation="4dp"
+    android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
+    app:popupTheme="@style/SpinKitView"
+    android:layout_height="50dp">
+
+</androidx.appcompat.widget.Toolbar>

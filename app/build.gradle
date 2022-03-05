@@ -1,0 +1,50 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    compileSdk 31
+
+    defaultConfig {
+        applicationId "com.examplejayho.cccstudymaterials"
+        minSdk 19
+        targetSdk 31
+        versionCode 6
+        versionName "1.5"
+
+        multiDexEnabled true
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+
+    implementation 'androidx.appcompat:appcompat:1.4.0'
+    implementation 'com.google.android.material:material:1.4.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.2'
+    testImplementation 'junit:junit:4.13.2'
+    implementation "androidx.webkit:webkit:1.4.0"
+    implementation 'com.github.ybq:Android-SpinKit:1.4.0'
+    implementation 'com.jakewharton:butterknife:10.0.0'
+    implementation files('../libs/unity-ads.aar')
+    implementation 'com.google.android.play:core:1.10.2'
+    implementation 'eu.dkaratzas:android-inapp-update:1.0.5'
+    implementation 'com.android.support:multidex:1.0.3'
+    implementation 'com.github.barteksc:android-pdf-viewer:3.1.0-beta.1'
+    implementation 'com.google.ads.mediation:facebook:6.8.0.0'
+    // implementation 'com.google.android.ads:mediation-test-suite:2.0.0'
+    implementation 'com.google.android.gms:play-services-ads:20.5.0'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+}

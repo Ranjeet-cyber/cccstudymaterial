@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/drawable/abc_ratingbar_indicator_material.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/drawable/background_btn.xml" value="0.22037037037037038" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.16018518518518518" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/drawable/ic_baseline_warning_24.xml" value="0.23692307692307693" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/drawable/star_half_24.xml" value="0.16018518518518518" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/drawable/wrong.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/font/aladin.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/aboutt.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_computer.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_descbook.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_done_acivity.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_eight.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_eleven.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_excel.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_five.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_four.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_nine.xml" value="0.33" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_one.xml" value="0.25" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_onedesc.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_powerpoint.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_quiz.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_seven.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_six.xml" value="0.25" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_sub_category.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_ten.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_three.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/activity_two.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/custom_alert.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/grid_layout.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/nav_header.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/row.xml" value="0.30527817403708984" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/success_dialog.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/layout/toolbar.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/menu/activity_main_drawer.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/menu/main_menu.xml" value="0.22" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/menu/menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/ranit/AndroidStudioProjects/cccstudyMaterials/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.15462962962962962" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

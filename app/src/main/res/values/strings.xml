@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">CCC Exam\'s Notes 2021-22</string>
+    <string name="physics">Co -Founders ETC..</string>
+    <string name="politics">Future Skills</string>
+    <string name="previous">Previous</string>
+    <string name="project_id">ccc-quiz-test</string>
+    <string name="python">Abbreviations</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
+    <string name="search_menu_title">Search</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="share_message">हिंदी और English में CCC Practice के लिए इस ऐप को डाउनलोड करे।</string>
+    <string name="share_subject">share object</string>
+    <string name="share_using">Share using</string>
+    <string name="sports">Internet And WWW</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="subcategory1">Test 1 (Hindi)</string>
+    <string name="subcategory10">Test 10 (English)</string>
+    <string name="subcategory2">Test 2 (Hindi)</string>
+    <string name="subcategory3">Test 3 (Hindi)</string>
+    <string name="subcategory4">Test 4 (Hindi)</string>
+    <string name="subcategory5">Test 5 (Hindi)</string>
+    <string name="subcategory6">Test 6 (English)</string>
+    <string name="subcategory7">Test 7 (English)</string>
+    <string name="subcategory8">Test 8 (English)</string>
+    <string name="subcategory9">Test 9 (English)</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="todo">TODO</string>
+    <string name="world">Computer book (Hindi)</string>
+    <string name="geo">Operating System</string>
+    <string name="history">M.S. Office</string>
+    <string name="chem">Libre Office</string>
+    <string name="bio">Important Notes</string>
+    <string name="economy">Social Networking</string>
+    <string name="india">Practice Sets</string>
+    <string name="desi_dram">DESI DRAM</string>
+    <string-array name="bhotikstory">
+        <item>1. कंप्यूटर का परिचय</item>
+        <item>2. पार्ट्स ऑफ कंप्यूटर</item>
+        <item>3. कंप्यूटर के इनपुट डिवाइस</item>
+        <item>4. कंप्यूटर मेमोरी</item>
+        <item>5. कंप्यूटर सूचना एवं डाटा</item>
+        <item>6. कंप्यूटर सॉफ्टवेयर</item>
+        <item>7. ऑपरेटिंग सिस्टम</item>
+        <item>8. माइक्रोसॉफ्ट विंडोस</item>
+        <item>9. माइक्रोसॉफ्ट ऑफिस</item>
+        <item>10. डाटाबेस मैनेजमेंट सिस्टम</item>
+        <item>11. डेटा संचार और नेटवर्क</item>
+        <item>12. इंटरनेट</item>
+        <item>13. कंप्यूटर सिक्यूरिटी</item>
+        <item>14. कंप्यूटर Important Notes</item>
+    </string-array>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="gallery">Gallery</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="tools">Tools</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="timeup">Time Up</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="alert">Internet Connection Alert</string>
+    <string name="warning1">Please check your Internet connection for \nBetter PDF Quality Experience</string>
+    <string name="warning">Warning</string>
+    <string name="text11">Are You Sure you want to Exit the Application</string>
+    <string name="get_ready">GET READY</string>
+    <string name="sample_story_content_description">Sample Story Content Description</string>
+    <string name="sample_story_title">Sample Story Title</string>
+    <string name="s">S</string>
+    <string name="close">Use Offline</string>
+    <string name="daily">Airforce x group Book and solved papers 2021</string>
+    <string name="ok">Okey</string>
+    <string name="by">Powered By update24hr</string>
+    <string name="ranjit">Developed by Ranjeet Singh Dagar</string>
+    <string name="v">Version 1.1.2</string>
+    <string name="v1">Disclaimer</string>
+    <string name="v2"> We do not own this book, neither created nor scanned. We just providing the links already available on internet. If any way it violates the law or has any issues then kindly contact us\n Email Us\nRddeveloper143@gmail.com.\n     Thank you.</string>
+    <string name="facebook_app_id">232142005034100</string>
+    <string name="developed_by_ranjit_dagar">Developed By Ranjit Dagar</string>
+    <string name="_3000_n">3000+ अति महत्वपूर्ण \n प्रश्न सभी परीक्षाओ के लिए</string>
+    <string name="gg"> महामैराथन तैयारी</string>
+    <string name="ccc_exam_s_notes_2021_22">CCC Exam\'s Notes 2021-22 for</string>
+    <string name="BANNER_id">ca-app-pub-7635336144239737/9758324610</string>
+</resources>

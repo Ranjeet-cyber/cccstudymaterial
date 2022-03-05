@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:id="@+id/titleimage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="140sp">
+
+
+        <TextView
+            app:fontFamily="@font/specialeliteregular"
+            android:id="@+id/splashText1"
+            android:layout_width="300sp"
+            android:layout_height="50dp"
+            android:textStyle="bold"
+            android:text="@string/ccc_exam_s_notes_2021_22"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:textSize="25sp"
+            android:textColor="#E31000"/>
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="280dp"
+            android:layout_height="120dp"
+            android:layout_gravity="center"
+            app:srcCompat="@drawable/rs"
+            android:contentDescription="TODO" />
+
+    </LinearLayout>
+    <com.github.ybq.android.spinkit.SpinKitView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/spin_kit"
+        style="@style/SpinKitView.Large.Wave"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:layout_gravity="center"
+        app:SpinKit_Color="@color/purple_700" />
+
+    <LinearLayout
+        android:id="@+id/titletxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            app:fontFamily="@font/monotonregular"
+            android:id="@+id/splashText"
+            android:layout_width="300sp"
+            android:layout_height="48dp"
+            android:textStyle="bold"
+            android:text="@string/gg"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:textSize="30sp"
+            android:textColor="#9C27B0"/>
+
+        <TextView
+            android:id="@+id/splashDesc"
+            android:layout_width="500sp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:text="@string/_3000_n"
+            android:textAlignment="center"
+            android:textColor="#E6004E"
+            android:textSize="25sp"
+            app:fontFamily="@font/unlockregular"/>
+        <TextView
+            android:id="@+id/splashDesc1"
+            android:layout_width="500sp"
+            android:layout_height="30dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:text="@string/developed_by_ranjit_dagar"
+            android:textAlignment="center"
+            android:textColor="#3F51B5"
+            android:textSize="25sp"
+            app:fontFamily="@font/unlockregular"/>
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
